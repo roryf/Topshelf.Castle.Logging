@@ -1,0 +1,14 @@
+build/
+release/
+*.suo
+*.user
+bin
+obj
+packages
+_ReSharper*
+*.csproj.user
+*.resharper.user
+*.suo
+*.cache
+TestResult.xml
+*ncrunch*
